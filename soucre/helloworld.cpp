@@ -11,5 +11,6 @@ int ucln(int a,int b){
 }
 int main(){
 	cout<<"Hello world"<<endl;
+	cout<<"xin chao";
 	return 0;
 }
