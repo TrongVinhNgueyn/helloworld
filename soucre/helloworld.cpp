@@ -14,5 +14,6 @@ int main(){
 	cin>>a>>b;
 	cout<<ucln(a,b);
 	cout<<"Hello world"<<endl;
+	cout<<"xin chao";
 	return 0;
 }
