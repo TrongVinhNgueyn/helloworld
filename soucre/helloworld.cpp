@@ -16,5 +16,6 @@ int main(){
 	cout<<"Hello world"<<endl;
 	cout<<"xin chao";
 	cout<<"Hello";
+	cout<<"vinh";
 	return 0;
 }
