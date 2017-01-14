@@ -10,6 +10,9 @@ int ucln(int a,int b){
 	return a;
 }
 int main(){
+	int a,b;
+	cin>>a>>b;
+	cout<<ucln(a,b);
 	cout<<"Hello world"<<endl;
 	return 0;
 }
